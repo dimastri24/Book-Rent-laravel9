@@ -14,6 +14,13 @@
 -   admin bisa melihat penyewa yang terkena denda (3 hari belum kembalikan buku) lalu melihat detail peminjamannya
 -   admin bisa melihat log peminjaman buku (kasih tangal wajib pengembalian buku & tanggal aktual buku dikembalikan)
 
+## Tools
+
+-   PHP - Laravel 9
+-   Laravel plugin: eloquent-sluggable
+-   CSS - Bootstrap 5, Bootstrap Icons
+-   Javascript library: jQuery, Select2
+
 ## How to run the project
 
 -   clone repo or unzip file then open with your text editor or IDE
